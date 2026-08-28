@@ -45,4 +45,5 @@ Version-controlled game-server configuration project with validation workflows, 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcodggz/)
 - 📫 [Contact me](mailto:marcodmgzgil@gmail.com)
 
-> Envision it. Build it.
+                                                                               > Envision it. Build it.
+                                                                               ![Profile views](https://komarev.com/ghpvc/?username=Marcodggz&label=Profile%20views&color=0e75b6&style=flat)
