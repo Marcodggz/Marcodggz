@@ -48,4 +48,4 @@ Version-controlled game-server configuration project with validation workflows, 
 Envision it. Build it.
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Marcodggz&label=Profile%20views&color=0e75b6&style=flat)
+
